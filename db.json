@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "siddu",
+      "course": "react",
+      "fee": 50000
+    },
+    {
+      "id": "b410",
+      "name": "raju",
+      "course": "java",
+      "fee": "8999"
+    }
+  ]
+}
